@@ -10,8 +10,8 @@ Edit thing you should edit that comment said to Make sure to read all the commen
 ###### LAST STEP
 Do not forget to add
 
-###### ensure MX_Fivem_Discord_Presence
+`ensure MX_Fivem_Discord_Presence`
 
-###### in server.cfg so that will make MX_Fivem_Discord_Presence resource start automaticlly with The Server
+in `server.cfg` so that will make `MX_Fivem_Discord_Presence` resource start automaticlly with The Server
 
-###### And then Boom! now you have your own Custom Discord Rich Precense for your FiveM Server!
+And then Boom! now you have your own Custom Discord Rich Precense for your FiveM Server!
