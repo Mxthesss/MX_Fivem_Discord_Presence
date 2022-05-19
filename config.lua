@@ -1,7 +1,7 @@
 
 local WaitTime = 15000 -- How often do you want to update the status (In MS)
-local appid = '961223608024330250' -- Make an application @ https://discordapp.com/developers/applications/ ID can be found there.
-local asset = 'complex' -- Go to https://discordapp.com/developers/applications/APPID/rich-presence/assets
+local appid = '-' -- Make an application @ https://discordapp.com/developers/applications/ ID can be found there.
+local asset = '-' -- Go to https://discordapp.com/developers/applications/APPID/rich-presence/assets
 
 function SetRP()
     local name = GetPlayerName(PlayerId())
@@ -9,9 +9,9 @@ function SetRP()
 
     SetDiscordAppId(appid)
 	SetDiscordRichPresenceAsset(asset)
-	SetDiscordRichPresenceAssetText('CPRP.cz')
-	SetDiscordRichPresenceAssetSmall('complex')
-	SetDiscordRichPresenceAssetSmallText('CPRP.cz')
+	SetDiscordRichPresenceAssetText('-')
+	SetDiscordRichPresenceAssetSmall('-')
+	SetDiscordRichPresenceAssetSmallText('-')
 end
 
 
