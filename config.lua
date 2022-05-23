@@ -1,5 +1,5 @@
 
-local WaitTime = 15000 -- How often do you want to update the status (In MS)
+local WaitTime = 1000 -- How often do you want to update the status (In MS)
 local appid = '-' -- Make an application @ https://discordapp.com/developers/applications/ ID can be found there.
 local asset = '-' -- Go to https://discordapp.com/developers/applications/APPID/rich-presence/assets
 
