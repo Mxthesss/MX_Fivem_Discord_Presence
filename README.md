@@ -1,4 +1,4 @@
-# MX_Fivem_Discord_Presence
+# MX_Discord_Presence
 
 
 ###### Step 1
